@@ -1,3 +1,6 @@
+Link youtube: dự án capstone3_movie: https://youtu.be/9ZYX247_39M
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
